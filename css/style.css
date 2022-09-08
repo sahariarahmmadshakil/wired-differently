@@ -1,0 +1,219 @@
+/* font-style  */
+
+.cerebri {
+    font-family: 'Cerebri Sans', sans-serif;
+
+}
+.bebas-neue{
+    font-family: 'Bebas Neue', cursive;
+}
+.montserrat {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.poppins{
+    font-family: 'Poppins', sans-serif;
+}
+
+p {
+    color: #ffffff;
+}
+
+/* creating  size  */
+.page {
+    background: var(--white);
+    display: block;
+    margin: 0 auto;
+    position: relative;
+    box-shadow: var(--pageShadow);
+    background-color: #ffffff;
+}
+
+.page[size="page-size"] {
+    width: 8.5in;
+    height: 11in;
+    overflow: hidden;
+    background-image: url('../images/bg4.jpg');
+    background-size: cover;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 0.1in;
+    margin-left: 0.26in;
+    margin-right: 0.26in;
+}
+
+
+.wired-differently {
+    width: 0.63in;
+    height: 0.41in;
+}
+
+.social-media-icon {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+
+}
+
+.top-left-text {
+    color: #ffffff;
+    font-size: 10.64pt;
+    text-align-last: right;
+    margin-bottom: 0px;
+    letter-spacing: 1px;
+}
+
+.icon-img {
+    height: 0.180in;
+    width: 0.180in;
+}
+
+.header-img-area {
+    margin: 0in 0.640in;
+    display: flex;
+    margin-top: 0.577in;
+    margin-top: 50px;
+}
+
+.top-right-area{
+    margin-top: 20px;
+}
+.top-right-area >p{
+    font-size: 8.14pt;
+}
+.top-img {
+    width: 297px;
+}
+
+.top-img>img {
+    width: 2.6in;
+    height: 3.2in;
+    margin-left: 50px;
+    top: -105px;
+    position: relative;
+}
+
+.top-left-area {
+    margin-left: 35px;
+    font-size: 8.19pt;
+}
+
+.Doug-Badertscher-speech {
+    text-align: right;
+    font-size: 8.05pt;
+    letter-spacing: 0.5px;
+    line-height: 14px;
+}
+
+.img-logo {
+    text-align: center;
+
+}
+
+.img-logo>img {
+    height: 2.4in;
+    width: 5.5in;
+    margin-left: 25px;
+    top: -235px;
+    position: relative;
+
+}
+
+.btn-area {
+    text-align: center;
+    top: -169.5px;
+    left: 10px;
+    position: relative;
+}
+
+.btn-area>h3 {
+    font-size: 11.48pt;
+    margin-left: 10px;
+
+}
+
+.btn-area>h3>a {
+    text-decoration: none;
+    color: #ffffff;
+    padding: 2px 17px;
+    letter-spacing: 2.5px;
+}
+
+.btn-area>p {
+    font-size: 9px;
+    letter-spacing: 1px;
+    font-weight: 300;
+    line-height: 0;
+}
+
+.highlights-area {
+    margin-left: 0.380in;
+    position: relative;
+    top: -141px;
+}
+
+.highlight-heading {
+    font-size: 6.33pt;
+    color: #000000;
+}
+
+.highlight-main {
+    font-size: 9px;
+    margin-left: 9px;
+    font-weight: 600;
+}
+
+.highlight-parent {
+    margin-top: 17px;
+}
+
+.highlight-items {
+    font-size: 5px;
+    margin-left: 20px;
+    line-height: 10px;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
+.round-img-area {
+    display: flex;
+    position: relative;
+    top: -130px;
+
+}
+.round-image-left{
+    margin-left: 0.31in;
+}
+.about-todd-title{
+    font-size: 16pt;
+}
+
+.round-images-parent {
+
+    margin-left: -25px;
+}
+
+
+.purposefull-text{
+    margin-left: 0.5in;
+    text-align: center;
+    margin-top: 100px;
+}
+.footer{
+    display: flex;
+    justify-content: space-between;
+    margin-top: -180px;
+    margin-left: 0.31in;
+    margin-right: 0.15in;
+}
+
+.video-area{
+    height: 175px;
+    width: 300px;
+    margin-left: 75px;
+    background-color: aqua;
+}
