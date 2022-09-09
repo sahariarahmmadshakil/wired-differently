@@ -4,14 +4,16 @@
     font-family: 'Cerebri Sans', sans-serif;
 
 }
-.bebas-neue{
+
+.bebas-neue {
     font-family: 'Bebas Neue', cursive;
 }
+
 .montserrat {
     font-family: 'Montserrat', sans-serif;
 }
 
-.poppins{
+.poppins {
     font-family: 'Poppins', sans-serif;
 }
 
@@ -33,7 +35,7 @@ p {
     width: 8.5in;
     height: 11in;
     overflow: hidden;
-    background-image: url('../images/bg4.jpg');
+    background-image: url('../images/bg2.jpg');
     background-size: cover;
 }
 
@@ -79,12 +81,14 @@ p {
     margin-top: 50px;
 }
 
-.top-right-area{
+.top-right-area {
     margin-top: 20px;
 }
-.top-right-area >p{
+
+.top-right-area>p {
     font-size: 8.14pt;
 }
+
 .top-img {
     width: 297px;
 }
@@ -185,10 +189,12 @@ p {
     top: -130px;
 
 }
-.round-image-left{
+
+.round-image-left {
     margin-left: 0.31in;
 }
-.about-todd-title{
+
+.about-todd-title {
     font-size: 16pt;
 }
 
@@ -198,12 +204,13 @@ p {
 }
 
 
-.purposefull-text{
+.purposefull-text {
     margin-left: 0.5in;
     text-align: center;
     margin-top: 100px;
 }
-.footer{
+
+.footer {
     display: flex;
     justify-content: space-between;
     margin-top: -180px;
@@ -211,9 +218,20 @@ p {
     margin-right: 0.15in;
 }
 
-.video-area{
+.video-area {
     height: 175px;
     width: 300px;
     margin-left: 75px;
-    background-color: aqua;
+}
+
+.video-area>img {
+    /* width: 32%;
+    position: absolute;
+    top: -79px;
+    left: 587px; */
+
+    width: 36%;
+    position: absolute;
+    top: -123px;
+    left: 582px;
 }
