@@ -35,7 +35,7 @@ p {
     width: 8.5in;
     height: 11in;
     overflow: hidden;
-    background-image: url('../images/bg2.jpg');
+    background-image: url('../images/bg.jpg');
     background-size: cover;
 }
 
@@ -225,10 +225,6 @@ p {
 }
 
 .video-area>img {
-    /* width: 32%;
-    position: absolute;
-    top: -79px;
-    left: 587px; */
 
     width: 36%;
     position: absolute;
